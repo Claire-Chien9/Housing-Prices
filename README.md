@@ -1,0 +1,2 @@
+# Housing-Prices
+How can we predict house prices based on property and characteristics? This is an essential question because house prices everywhere have been increasing in different areas. It would be helpful to see how the prices are affected based on different properties such as area it is at, how big, apartment or house, and more. It is also important to know the price of the houses along with the properties so we can compare the relationships to be able to predict the price.
